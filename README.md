@@ -1,3 +1,6 @@
+## Archived
+My interests moved to rust and webgpu. It's time to archive this project.
+
 ## Why did I start this project?
 
 This is a project I wanted to start when I was reading *WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL* - a big shoutout to Kouichi Matsuda for this awesome book.
